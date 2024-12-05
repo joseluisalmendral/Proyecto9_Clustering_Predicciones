@@ -52,6 +52,11 @@ import os
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 sys.path.append(PROJECT_ROOT)
 
+# Variables Globales
+# -----------------------------------------------------------------------
+DATOS_RUTA_BASE = os.path.join(PROJECT_ROOT, 'datos')
+
+
 
 # importar funciones de soporte
 # -----------------------------------------------------------------------
@@ -61,8 +66,8 @@ from src.eda import soporte_outliers as sup_out
 from src.clasificacion import soportefeaturescaling as sup_fea
 from src.eda import soporte_encoding2 as sup_encod
 from src.clasificacion import soporte_modelos_clasificacion as sup_models
-from src.clustering import soporte_clustering as sup_clus
-from src.eda import soporte_series_temporales as sup_series
+from src.clustering import soporte_sarima as sup_clus
+from src.eda import soporte_series_temporales as sup_series_tem
 
 ##aplicar configuraciones
 #------------------------------------------------------------------------
