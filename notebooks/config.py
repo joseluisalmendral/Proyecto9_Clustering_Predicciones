@@ -55,6 +55,9 @@ sys.path.append(PROJECT_ROOT)
 # Variables Globales
 # -----------------------------------------------------------------------
 DATOS_RUTA_BASE = os.path.join(PROJECT_ROOT, 'datos')
+DATOS_RUTA_TRATADOS = os.path.join(DATOS_RUTA_BASE, 'tratados')
+DATOS_RUTA_CLUSTERS = os.path.join(DATOS_RUTA_TRATADOS, 'clusters')
+TRANSFORMERS_RUTA_BASE = os.path.join(PROJECT_ROOT, 'transformers/base')
 
 
 
