@@ -12,7 +12,7 @@ El trabajo se centra en:
 
 ### Datos Utilizados
 
-[Archivo de Datos Original](datos/descripcion_datos.md)
+[Explicación Conjunto Datos](datos/descripcion_datos.md)
 
 ---
 
