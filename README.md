@@ -1,5 +1,7 @@
 # 📊 Análisis de Datos del Comercio Global
 
+<img src='https://img.freepik.com/vector-gratis/comercio-global-analisis-mercado-valores-analisis-estadisticas-comercio-internacional-globalizacion-economica-concepto-analisis-datos-ambientales_335657-751.jpg' width='600px'>
+
 ## Descripción del Proyecto
 En este proyecto, asumo el rol de **Científico de Datos** en una empresa de comercio global. La compañía busca comprender mejor su base de clientes, productos y operaciones para **maximizar beneficios** y **optimizar procesos**.
 
