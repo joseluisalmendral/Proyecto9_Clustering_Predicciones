@@ -59,6 +59,7 @@ DATOS_RUTA_BASE = os.path.join(PROJECT_ROOT, 'datos')
 DATOS_RUTA_TRATADOS = os.path.join(DATOS_RUTA_BASE, 'tratados')
 DATOS_RUTA_CLUSTERS = os.path.join(DATOS_RUTA_TRATADOS, 'clusters')
 TRANSFORMERS_RUTA_BASE = os.path.join(PROJECT_ROOT, 'transformers/base')
+TRANSFORMERS_RUTA_GOOD_ONES = os.path.join(PROJECT_ROOT, 'transformers/good_ones')
 
 
 
@@ -73,6 +74,7 @@ from src.clasificacion import soporte_modelos_clasificacion as sup_models
 from src.clustering import soporte_clustering as sup_clus
 from src.clustering import soporte_sarima as sup_sarimas
 from src.eda import soporte_series_temporales as sup_series_tem
+from src.regresion import soporte_regresion as sup_regre
 
 ##aplicar configuraciones
 #------------------------------------------------------------------------
