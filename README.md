@@ -26,6 +26,9 @@ Las conclusiones del análisis y recomendaciones de estrategias para clientes y 
 - [Para Productos](https://github.com/joseluisalmendral/Proyecto9_Clustering_Predicciones/blob/master/datos/tratados/clusters/productos/explicacion_clusters_productos.ipynb).
 - [Para Clientes](https://github.com/joseluisalmendral/Proyecto9_Clustering_Predicciones/blob/master/datos/tratados/clusters/clientes/explicacion_clusters_clientes.ipynb).
 
+---
+---
+
 ## ⚙️ Instalación del Entorno
 
 Clonar repositorio y ejecutar el siguiente comando:
@@ -89,3 +92,18 @@ Proyecto9/
 └── .gitignore                      # Archivos y directorios ignorados por Git.
 
 ```
+
+## 🛠️ Próximos Pasos
+
+- **Estudio más Detallado**: realizar más *Data Mining* en cada uno de los clusters obtenidos y poder ofrecer mayor soporte visual.
+
+- **Refinamiento Clusters**: jugar más con el encoding y el escalado utilizado para afinar más nuestra clasificación de los clusters.
+
+- **Creación de más Modelos**: 
+    - modelo el cual haga un seguimiento en el tiempo de si un cliente se nos pasa de un cluster a otro y retenerlo.
+
+    - modelo para ajustar inventario según las fechas.
+
+    - modelo que ofrezca combos de productos rentables con productos de menor rendimiento según los intereses del usuario.
+
+    - modelo que prediga cómo los descuentos afectarán a las ventas y el profict final.
