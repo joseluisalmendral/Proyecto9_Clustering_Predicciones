@@ -16,6 +16,16 @@ El trabajo se centra en:
 
 ---
 
+## Preguntas a responder
+
+Las preguntas que este estudio responde, se encuentran en el README.md del siguiente repo --> https://github.com/DataScienceOct24/Proyecto9-Clustering
+
+## 🧾 Conclusiones
+
+Las conclusiones del análisis y recomendaciones de estrategias para clientes y productos, se encuentran en los archivos:
+- [Para Productos](https://github.com/joseluisalmendral/Proyecto9_Clustering_Predicciones/blob/master/datos/tratados/clusters/productos/explicacion_clusters_productos.ipynb).
+- [Para Clientes](https://github.com/joseluisalmendral/Proyecto9_Clustering_Predicciones/blob/master/datos/tratados/clusters/clientes/explicacion_clusters_clientes.ipynb).
+
 ## ⚙️ Instalación del Entorno
 
 Clonar repositorio y ejecutar el siguiente comando:
