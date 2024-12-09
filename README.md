@@ -22,8 +22,8 @@ El trabajo se centra en:
 
 ## ❓ **Preguntas a Responder**  
 
-Las preguntas que este estudio responde se encuentran en el README.md del siguiente repositorio:  
-[🔗 Proyecto9-Clustering](https://github.com/DataScienceOct24/Proyecto9-Clustering)  
+Las preguntas que este estudio responde se encuentran en el README.md del siguiente repositorio -->
+https://github.com/DataScienceOct24/Proyecto9-Clustering
 
 ---
 
