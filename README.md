@@ -1,4 +1,4 @@
-### 📊 **Análisis de Datos del Comercio Global**  
+# 📊 **Análisis de Datos del Comercio Global**  
 
 <img src='https://images.pexels.com/photos/5561923/pexels-photo-5561923.jpeg?auto=compress&cs=tinysrgb&w=600'>  
 
@@ -16,7 +16,7 @@ El trabajo se centra en:
 
 ## 🗂️ **Datos Utilizados**  
 
-[📄 Explicación Conjunto Datos](datos/descripcion_datos.md)  
+[Explicación Conjunto Datos](datos/descripcion_datos.md)  
 
 ---
 
@@ -30,8 +30,8 @@ Las preguntas que este estudio responde se encuentran en el README.md del siguie
 ## 🧾 **Conclusiones**  
 
 Las conclusiones del análisis y recomendaciones de estrategias para clientes y productos, se encuentran en los archivos:  
-- [📊 Para Productos](https://github.com/joseluisalmendral/Proyecto9_Clustering_Predicciones/blob/master/datos/tratados/clusters/productos/explicacion_clusters_productos.ipynb).  
-- [👥 Para Clientes](https://github.com/joseluisalmendral/Proyecto9_Clustering_Predicciones/blob/master/datos/tratados/clusters/clientes/explicacion_clusters_clientes.ipynb).  
+- [Para Productos](https://github.com/joseluisalmendral/Proyecto9_Clustering_Predicciones/blob/master/datos/tratados/clusters/productos/explicacion_clusters_productos.ipynb).  
+- [Para Clientes](https://github.com/joseluisalmendral/Proyecto9_Clustering_Predicciones/blob/master/datos/tratados/clusters/clientes/explicacion_clusters_clientes.ipynb).  
 
 ---
 
