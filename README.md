@@ -1,6 +1,6 @@
 # 📊 Análisis de Datos del Comercio Global
 
-<img src='https://images.pexels.com/photos/5561923/pexels-photo-5561923.jpeg?auto=compress&cs=tinysrgb&w=600' width='600px'>
+<img src='https://images.pexels.com/photos/5561923/pexels-photo-5561923.jpeg?auto=compress&cs=tinysrgb&w=600'>
 
 ## Descripción del Proyecto
 En este proyecto, asumo el rol de **Científico de Datos** en una empresa de comercio global. La compañía busca comprender mejor su base de clientes, productos y operaciones para **maximizar beneficios** y **optimizar procesos**.
